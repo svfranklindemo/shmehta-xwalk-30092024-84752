@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/shmehta/shmehta-2024-9-30-14-17-46/:/
+ - /content/shmehta/shmehta-2024-9-30-14-17-46/metadata.json:/metadata.json
+ - /content/shmehta/shmehta-2024-9-30-14-17-46/redirects.json:/redirects.json
